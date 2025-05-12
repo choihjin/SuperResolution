@@ -1,4 +1,4 @@
-# 🚗 Dash Cam License Plate Restoration
+# 🚗 License Plate Restoration
 
 블랙박스 영상에서 흐릿한 자동차 번호판을 고화질로 복원하는 딥러닝 기반 화질 개선 시스템입니다.
 
